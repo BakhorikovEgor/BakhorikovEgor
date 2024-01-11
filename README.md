@@ -21,15 +21,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
-###
-
-<h3 align="left">👀  Stats </h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BakhorikovEgor&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
